@@ -25,7 +25,3 @@ The Jupyter notebook `car_price_analysis.ipynb` contains the following sections:
 
 The analysis reveals several important variables that significantly impact car prices, including engine size, horsepower, length, width, curb weight, city mpg, and highway mpg. These variables can be used as features for building machine learning models to automate the prediction of car prices.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
